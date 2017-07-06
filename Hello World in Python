@@ -1,0 +1,9 @@
+# this code can run on python compiler 
+# if you don't hava python on your pc/mac download it at www.python.org
+# i Recommended use Python Version 3.6 
+
+
+# Python is so simple than other Programming Languages 
+# Just write  print "<expression>" you will get the output as well as python does
+
+print "Hello world"
